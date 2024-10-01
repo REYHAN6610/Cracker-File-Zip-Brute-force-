@@ -6,4 +6,4 @@
 
 This script is to perform Brute Force on a file (.zip) that has been password protected, and this script will guess the password that is listed in .txt
 
-
+## How to run in termux
